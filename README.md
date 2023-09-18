@@ -1,6 +1,11 @@
 ### Hi there 👋 I'm Andrew McPhail,
 
-A data/analytics engineer passionate about data :bar_chart: and it's impact on modern society. I like automating things, building pipelines, cleaning data and exploring data problems that help improve business decision making.
+A data/analytics enthusiast passionate about data :bar_chart:. I like automating things, building pipelines, cleaning data and exploring data problems that help improve business decision making.
+
+- 🔭 I’m currently working on optimising our internal data warehouse. It's a fairly straightforward hosted postgres data warehouse. We use dbt for our modelling and transformation and SQLModel for defining our source data and executing on our ingestion pipelines.
+
+- 🌱 I’m currently working my way through the Google Data Analytics Certification.
+- ✨ I enjoy working with dbt, SQL and python.
 
 <!--
 **drewzamcp/drewzamcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,3 +1,13 @@
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="andrew-m-962b1614" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://za.linkedin.com/in/andrew-m-962b1614?trk=profile-badge">Andrew McPhail.</a></div>
+              
+<p align="right">
+<!-- 
+    <a href="https://www.linkedin.com/in/thomasgeorgethomas/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
+    <a href="mailto:thomasgeorgethomas@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
+-->
+    <a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
+</p>
+
 ### Hi there 👋 I'm Andrew McPhail,
 
 A data/analytics enthusiast passionate about data :bar_chart:. I like automating things, building pipelines, cleaning data and exploring data problems that help improve business decision making.
@@ -6,6 +16,7 @@ A data/analytics enthusiast passionate about data :bar_chart:. I like automating
 
 - 🌱 I’m currently working my way through the Google Data Analytics Certification.
 - ✨ I enjoy working with dbt, SQL and python.
+
 
 <!--
 **drewzamcp/drewzamcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

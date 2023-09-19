@@ -1,11 +1,13 @@
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="andrew-m-962b1614" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://za.linkedin.com/in/andrew-m-962b1614?trk=profile-badge">Andrew McPhail.</a></div>
-              
+            
 <p align="right">
 <!-- 
     <a href="https://www.linkedin.com/in/thomasgeorgethomas/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
     <a href="mailto:thomasgeorgethomas@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
 -->
-    <a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
+  <a href="https://za.linkedin.com/in/andrew-m-962b1614"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>  
+  <a class="badge-base__link LI-simple-link" href="https://za.linkedin.com/in/andrew-m-962b1614?trk=profile-badge"></a>
+    <a href="https://twitter.com/Drewzamcp"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" />
+    </a>
 </p>
 
 ### Hi there 👋 I'm Andrew McPhail,
